@@ -6,4 +6,6 @@ I would like to update this to give a binary tree of the merges, as that can be 
 ## Neat properties
 Here is a corrolation graph between all of the sentince vectors. You can see squares that represent diffrent topics along the diaginal. Super cool
 ![Image](/Figure.png)
+
+
 The text used is from [https://www.reddit.com/r/shortstories/comments/1jicp3r/mf_the_end_of_the_world/]
